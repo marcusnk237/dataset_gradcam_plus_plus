@@ -26,7 +26,8 @@ Arguments:
 # Dataset level feature relevance
 
 from dataset_gradcam_plus_plus import dataset_features_importances
-def dataset_features_importances(model,datas,layer_name,feature_names,flag=True)
+
+dataset_features_importances(model,datas,layer_name,feature_names,flag=True)
 
 Arguments:
 - model : The model trained
