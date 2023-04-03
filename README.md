@@ -5,9 +5,7 @@ For bigger dataset (>5000) , we recommand to split the dataset into numerous bat
 
 # Installation
 
-> pip install dataset_gradcam_plus_plus
->                 or
-> cd ./dataset_gradcam_plus_plus  python setup.py install
+ cd ./dataset_gradcam_plus_plus  python setup.py install
 
 # Local classification explaination
 
