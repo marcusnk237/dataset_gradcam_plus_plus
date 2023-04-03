@@ -42,4 +42,4 @@ Arguments:
 The original Grad-CAM ++ publication :https://arxiv.org/pdf/1710.11063.pdf
 
 # License
-This project is Licensed under the MIT License.
+This project is Licensed under the GNU General Public License v3.0.
