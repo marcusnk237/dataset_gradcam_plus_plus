@@ -104,7 +104,7 @@ Use the `BLANK_README.md` to get started.
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the GNU License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,11 +112,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
-
-Nkengue Marc Junior - [@Linkedin](https://www.linkedin.com/in/marc-junior-nkengue/)
-
+Nkengue Marc Junior - [![LinkedIn][linkedin-shield]][linkedin-url]
 Project Link: [https://github.com/marcusnk237/dataset_gradcam_plus_plus](https://github.com/marcusnk237/dataset_gradcam_plus_plus)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -125,20 +122,12 @@ Project Link: [https://github.com/marcusnk237/dataset_gradcam_plus_plus](https:/
 ## Acknowledgments
 
 The authors of the original article about GRAD-CAM++
-* [Aditya Chattopadhay; Anirban Sarkar; Prantik Howlader; Vineeth N Balasubramanian](https://doi.org/10.1109/WACV.2018.00097)
+* [Aditya Chattopadhay; Anirban Sarkar; Prantik Howlader; Vineeth N Balasubramanian : Grad-CAM++: Generalized Gradient-Based Visual Explanations for Deep Convolutional Networks](https://doi.org/10.1109/WACV.2018.00097)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/marcusnk237/dataset_gradcam_plus_plus/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/marcusnk237/dataset_gradcam_plus_plus/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/marcusnk237/dataset_gradcam_plus_plus/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/marcusnk237/dataset_gradcam_plus_plus/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/marcusnk237/dataset_gradcam_plus_plus/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
