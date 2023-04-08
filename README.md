@@ -108,16 +108,12 @@ Use the `BLANK_README.md` to get started.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+[![Tensorflow][Tensorflow]][Tensorflow-url]
+[![Opencv][Opencv]][Opencv-url]
+[![Pandas][Pandas]][Pandas-url]
+[![Matplotlib][Matplotlib]][Matplotlib]
+[![Numpy][Numpy]][Numpy-url]
 
 ### Installation
 
@@ -129,8 +125,6 @@ This is an example of how to list things you need to use the software and how to
    ```python3
    setup.py install
    ```
-   ```
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -146,7 +140,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Nkengue Marc Junior - [@your_twitter](https://www.linkedin.com/in/marc-junior-nkengue/)
+Nkengue Marc Junior - [@Linkedin](https://www.linkedin.com/in/marc-junior-nkengue/)
 
 Project Link: [https://github.com/marcusnk237/dataset_gradcam_plus_plus](https://github.com/marcusnk237/dataset_gradcam_plus_plus)
 
@@ -178,6 +172,14 @@ The authors of the original article about GRAD-CAM++
 [linkedin-url]: https://www.linkedin.com/in/marc-junior-nkengue/
 [product-screenshot]: images/screenshot.png
 
+[Opencv]:https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white
+[Opencv-url]:https://pypi.org/project/opencv-python/
+[Pandas]:https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
+[Pandas-url]:https://pandas.pydata.org/
+[Matplotlib]:https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black
+[Matplotlib-url]:https://matplotlib.org/
+[NumPy]: https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white
+[Numpy-url]:https://numpy.org/
 [Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow
 [Python-url]: https://www.python.org/
 [Tensorflow]: https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white 
