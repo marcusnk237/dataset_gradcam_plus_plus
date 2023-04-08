@@ -92,7 +92,7 @@ Our library not only give a GRAD-CAM ++ visualisation for time series, but also 
 ## Usage
 ### Local visual explanation
 ```
-from dataset_gradcam_plus_plus import local_features_importances
+<code style="color : purple">from </code> <code style="color : green"> dataset_gradcam_plus_plus </code> <code style="color : purple"> import </code> <code style="color : gold">local_features_importances</code>
 
 local_features_importances(model,data,time,layer_name,label)
 Arguments:
