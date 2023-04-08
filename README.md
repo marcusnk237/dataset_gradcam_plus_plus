@@ -37,16 +37,16 @@
   <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Dataset level explainability for time series classification
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/marcusnk237/dataset_gradcam_plus_plus/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/marcusnk237/dataset_gradcam_plus_plus/issues">Request Feature</a>
   </p>
 </div>
 
@@ -57,7 +57,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">About</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -125,20 +125,14 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/marcusnk237/dataset_gradcam_plus_plus.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -205,7 +199,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/marcusnk237/dataset_gradcam_plus_plus](https://github.com/marcusnk237/dataset_gradcam_plus_plus)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -216,21 +210,12 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-
+* [Aditya Chattopadhay; Anirban Sarkar; Prantik Howlader; Vineeth N Balasubramanian](https://doi.org/10.1109/WACV.2018.00097)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/marcusnk237/dataset_gradcam_plus_plus/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
