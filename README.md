@@ -5,7 +5,6 @@
   <h1 align="center">Dataset level explainability for time series classification</h1>
 
   <p align="center">
-one of the first implementation of Grad-CAM ++ for time series / 1d signal. The module  gives a visual explainations of the decisions made by Deep Learning model (Especially for classification problems) and helps to understand how the model works and assert the model results.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
