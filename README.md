@@ -80,12 +80,12 @@ Our library not only give a GRAD-CAM ++ visualisation for time series, but also 
 ### Installation
 
 1. Clone the repo
-   ```sh
-   git clone https://github.com/marcusnk237/dataset_gradcam_plus_plus.git
+   ```
+   sh git clone https://github.com/marcusnk237/dataset_gradcam_plus_plus.git
    ```
 2. Install the library
-   ```python3
-   setup.py install
+   ```
+   python3 setup.py install
    ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
