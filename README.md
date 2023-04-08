@@ -102,8 +102,8 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-* [![Python][Python]][Python-url]
-* [![Tensorflow][Tensorflow]][Tensorflow-url]
+[![Python][Python]][Python-url]
+[![Tensorflow][Tensorflow]][Tensorflow-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -232,21 +232,21 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-url]: https://github.com/marcusnk237/dataset_gradcam_plus_plus/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[forks-url]: https://github.com/marcusnk237/dataset_gradcam_plus_plus/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[stars-url]: https://github.com/marcusnk237/dataset_gradcam_plus_plus/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[issues-url]: https://github.com/marcusnk237/dataset_gradcam_plus_plus/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/marcusnk237/dataset_gradcam_plus_plus/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/marc-junior-nkengue/
 [product-screenshot]: images/screenshot.png
 
 [Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow
 [Python-url]: https://www.python.org/
-[Tensorflow]: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/langfr-220px-Tensorflow_logo.svg.png  
+[Tensorflow]: https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white 
 [Tensorflow-url]:  https://www.tensorflow.org/
 
