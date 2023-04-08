@@ -105,8 +105,9 @@ Distributed under the GNU License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
-Nkengue Marc Junior - [![LinkedIn][linkedin-shield]][linkedin-url]
-Project Link: [https://github.com/marcusnk237/dataset_gradcam_plus_plus](https://github.com/marcusnk237/dataset_gradcam_plus_plus)
+* [![LinkedIn][linkedin-shield]][linkedin-url]
+
+* Project Link: [https://github.com/marcusnk237/dataset_gradcam_plus_plus](https://github.com/marcusnk237/dataset_gradcam_plus_plus)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
