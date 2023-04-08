@@ -1,9 +1,8 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-
 <br />
 <div align="center">
-  <h3 align="center">Dataset level explainability for time series classification</h3>
+  <h1 align="center">Dataset level explainability for time series classification</h1>
 
   <p align="center">
 one of the first implementation of Grad-CAM ++ for time series / 1d signal. The module  gives a visual explainations of the decisions made by Deep Learning model (Especially for classification problems) and helps to understand how the model works and assert the model results.
@@ -47,16 +46,16 @@ one of the first implementation of Grad-CAM ++ for time series / 1d signal. The 
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+One of the main challenges in artificial intelligence for the researchers is to understands how model predictions works.
+Many contributions has been made, especially GRAD-CAM++.
+Grad-CAM++ give a visual representation of the keys features responsible of the classification, and give human-level understanding of the model prediction. 
+Despite its advantages, GRAD-CAM++ have drawbacks:
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+* GRAD-CAM ++ is not initially design for time series
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+* GRAD-CAM ++ works only for local classification. It can give any information about key features responsible of the classification at a dataset-level.
 
-Use the `BLANK_README.md` to get started.
+Our library not only give a GRAD-CAM ++ visualisation for time series, but also give keys feature importances at a dataset level
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -68,8 +67,6 @@ Use the `BLANK_README.md` to get started.
 [![Tensorflow][Tensorflow]][Tensorflow-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -93,6 +90,7 @@ Use the `BLANK_README.md` to get started.
    ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Usage
 
 <!-- LICENSE -->
 ## License
