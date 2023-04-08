@@ -103,6 +103,7 @@ Use the `BLANK_README.md` to get started.
 ### Built With
 
 * [![Python][Python]][Python-url]
+* [![Tensorflow][Tensorflow]][Tensorflow-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -244,7 +245,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 
-[Python]: https://www.python.org/static/img/python-logo@2x.png
+[Python]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
 [Python-url]: https://www.python.org/
 [Tensorflow]: https://www.tensorflow.org/
 [Tensorflow-url]: https://www.python.org/static/img/python-logo@2x.png
