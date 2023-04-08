@@ -247,6 +247,6 @@ Use this space to list resources you find helpful and would like to give credit 
 
 [Python]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
 [Python-url]: https://www.python.org/
-[Tensorflow]: https://www.tensorflow.org/
-[Tensorflow-url]: https://www.python.org/static/img/python-logo@2x.png
+[Tensorflow]: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/langfr-220px-Tensorflow_logo.svg.png  
+[Tensorflow-url]:  https://www.tensorflow.org/
 
