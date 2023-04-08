@@ -43,7 +43,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 One of the main challenges in artificial intelligence for the researchers is to understands how model predictions works.
 Many contributions has been made, especially GRAD-CAM++.
