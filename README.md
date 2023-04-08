@@ -92,8 +92,7 @@ Our library not only give a GRAD-CAM ++ visualisation for time series, but also 
 ## Usage
 ### Local visual explanation
 ```
-$${\color{green}Green}$$ from </code> <code style="color : green"> dataset_gradcam_plus_plus </code> <code style="color : purple"> import </code> <code style="color : gold">local_features_importances</code>
-
+from dataset_gradcam_plus_plus  import local_features_importances
 local_features_importances(model,data,time,layer_name,label)
 Arguments:
 > - model : The model trained
@@ -101,9 +100,9 @@ Arguments:
 > - time : The time range (The user can create a linspace vector and use it as the time range).
 > - layer_name : The last layer of the feature extraction part of the model. Usually, it is the last layer before the Flattening operation.
 > - label : The label output list
-
-![Alt text](https://github.com/marcusnk237/dataset_gradcam_plus_plus/blob/main/results/gradcam_plus_plus_1d.png)
 ```
+![Alt text](https://github.com/marcusnk237/dataset_gradcam_plus_plus/blob/main/results/gradcam_plus_plus_1d.png)
+
 ### Dataset level feature relevance
 ```
 from dataset_gradcam_plus_plus import dataset_features_importances
@@ -116,9 +115,8 @@ Arguments:
 > - layer_name : The last layer of the feature extraction part of the model. Usually, it is the last layer before the Flattening operation.
 > - feature_names : The feature list
 > - flag : True, return the global feature importance plot; False, return the feature importance frequency and the corresponding features
-
-![Alt text](https://github.com/marcusnk237/dataset_gradcam_plus_plus/blob/main/results/dataset_level_feature_importance.jpg)
 ```
+![Alt text](https://github.com/marcusnk237/dataset_gradcam_plus_plus/blob/main/results/dataset_level_feature_importance.jpg)
 <!-- LICENSE -->
 ## License
 
