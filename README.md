@@ -1,6 +1,10 @@
 # dataset_gradcam_plus_plus
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
-For bigger dataset (>5000) , we recommand to split the dataset into numerous batchs of 5000 samples.
 
 <!-- TABLE OF CONTENTS -->
 <details>
