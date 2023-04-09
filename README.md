@@ -3,16 +3,6 @@
 <br />
 <div align="center">
   <h1 align="center">Dataset level explainability for time series classification</h1>
-
-  <p align="center">
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/marcusnk237/dataset_gradcam_plus_plus/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/marcusnk237/dataset_gradcam_plus_plus/issues">Request Feature</a>
-  </p>
 </div>
 <!-- TABLE OF CONTENTS -->
 <details>
