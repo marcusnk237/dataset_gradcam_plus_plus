@@ -4,6 +4,7 @@
 <div align="center">
   <h1 align="center">Dataset level explainability for time series classification</h1>
 
+</div>
 <!-- TABLE OF CONTENTS -->
   <summary>Table of Contents</summary>
   <ol>
@@ -26,7 +27,6 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 
-</div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
