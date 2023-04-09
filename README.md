@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <h1 align="center">Dataset level explainability for time series classification</h1>
-</div>
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -28,7 +28,7 @@
   </ol>
 </details>
 
-
+</div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
